@@ -22,7 +22,7 @@ namespace TestRepo
             MessageBox.Show("Hello git repo..");
             Console.WriteLine("Repository");
             Console.WriteLine("Updated Repository by Rahul");
-            Console.WriteLine("Updated Repository by Snehal");
+            Console.WriteLine("Updated Repository by Snehal N");
 
         }
     }
