@@ -20,6 +20,7 @@ namespace TestRepo
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Hello git repo..");
+            Console.WriteLine("It is for tesing.");
         }
     }
 }
